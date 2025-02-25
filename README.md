@@ -27,7 +27,7 @@ StockPricePredictor-ML
 - src - Core Python scripts  
 - README.md - Project documentation  
 - requirements.txt - Python dependencies  
-- report.pdf - Project report  
+    
 
 ## Methodology  
 1. Data Collection - Extract historical stock prices from Yahoo Finance  
